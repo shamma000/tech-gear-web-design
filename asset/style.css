@@ -1,0 +1,180 @@
+body{
+	background-color: #222222;
+}
+.nav-link{
+	color: 575757;
+}
+.navbar-brand{
+	font-weight: bold;
+	padding: 25px;
+	color: #fff;
+	
+}
+.navbar-nav a{
+
+	font-weight: bold;
+	padding: 25px;
+	margin-left: 20px;
+}
+.navbar-nav a:hover{
+	border-bottom: solid 3px;
+	padding-bottom: 22px;
+	color: #1b97d2; 
+}
+.signin-button{
+	height: 40px; 
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-top: 20px;
+	margin-left: 50px;
+	color: #fff;
+	background:transparent;
+	color: #fff;
+	border-color: #fff;
+}
+.signin-button:hover{
+	height: 40px; 
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-top: 20px;
+	margin-left: 50px;
+	color: #fff;
+	background:transparent;
+	color: #1b97d2;
+	border-color: #1b97d2;
+}
+h1{
+	color: #fff;
+
+}
+h5{
+	color: #575757;
+}
+p{
+	color: #fff;
+}
+.price{
+	color: #1d607f ;
+}
+.button-one{
+	background-color: #1b97d2;
+	color: #fff;
+	border-color: #1b97d2;
+
+}
+.button-one:hover{
+	background: transparent;
+	color: #1b97d2;
+	border-color: #1b97d2;
+
+}
+.button-two{
+	background:transparent;
+	color: #fff;
+	border-color: #fff;
+
+}
+.button-two:hover{
+	background:transparent;
+	color: #1b97d2;
+	border-color: #1b97d2;
+
+}
+.tagline-title{
+	opacity:0.5 ;
+	color: #1b97d2;
+	z-index: -1;
+	font-weight:800;
+	font-size: 45px; 
+}
+.tagline-subtitle{
+	transform: translateY(-120%);
+	color: #fff;
+}
+.view-more{
+	color: #1b97d2;
+	-webkit-transition: -webkit-transform 1s;
+}
+.view-more-icon{
+	color: #1b97d2;
+	-webkit-transition: -webkit-transform 0.5s;
+}
+
+ a:hover{
+	color:#1b97d2;
+	text-decoration: none;
+
+}
+ a:hover .view-more-icon{
+ 	-webkit-transform:translateX(100%);
+
+}
+.feature-box{
+	background-color: #393939;
+	border-radius: 20px;
+}
+.feature-product-image{
+	transform: translateY(-25%);
+}
+.feature-product-category{
+	transform: translateY(-275%);
+	color: #fff;
+	font-weight: bold;
+}
+.services-icon{
+	color: #1b97d2;
+	transform: translateY(-50%);
+	font-size: 100px;
+}
+.services-tags{
+	color: #fff;
+	font-weight: bold;
+}
+.member-name{
+	color: #fff;
+	font-weight: bold;
+}
+
+.member-icon{
+	width: 50%;
+}
+.member-card{
+	width: 250px;
+	margin: 15px;
+	
+}
+.owl-prev span, .owl-next span{
+	font-size: 80px;
+	font-weight: bold;
+	color: #1b97d2;
+	display: none;
+}
+s
+.contact-section i{
+	font-weight:bold;
+	color: #1b97d2;
+}
+.contact-section h5{
+	color: #fff;
+}
+.message-send{
+	width: 200px;
+	color: #fff;
+	background-color: #1b97d2;
+}
+.message-send:hover{
+	width: 200px;
+	color: #fff;
+	background-color: #1b97d2;
+}
+.contact-form{
+	background-color: #575758;
+	border: none; 
+}
+
+footer a{
+	color: #575757;
+}
+footer {
+	background-color: #0B0B0C;
+}
